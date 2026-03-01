@@ -37,6 +37,12 @@ body {
     color: white;
     padding: 20px;
 }
+.header h2 {
+    margin: 0;
+    font-size: 1.8em;
+    letter-spacing: 1px;
+    color: white;
+}
 table tr:hover td {
     background-color: #eaf1fb;
 }
