@@ -40,3 +40,9 @@ body {
 table tr:hover td {
     background-color: #eaf1fb;
 }
+table td:first-child {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #c0392b;
+    white-space: nowrap;
+}
