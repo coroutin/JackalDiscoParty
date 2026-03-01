@@ -37,3 +37,6 @@ body {
     color: white;
     padding: 20px;
 }
+table tr:hover td {
+    background-color: #eaf1fb;
+}
